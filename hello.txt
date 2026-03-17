@@ -1,1 +1,2 @@
 Hello git this is my first git hub project
+Now I am learning Git step by step.
